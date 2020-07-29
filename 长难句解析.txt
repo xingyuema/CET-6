@@ -12,8 +12,6 @@ no matter whether ... or
 be ... or	
 
 
-
-
 delivering sth goals 		实现...目标
 UN Sustainable Development	联合国可持续发展
 draw upon/on			利用某些东西
@@ -27,6 +25,7 @@ so/as long as：			只要
 in case：			万一
 on condition that：		如果、假如
 provided/providing that：	如果、假如	suppose/supposing that：	如果、假如
+
 
 UV light	 		紫外线
 disinfectant robots		杀毒机器人
@@ -51,6 +50,7 @@ to the point that		到...程度
 to such a degree that		到...程度
 to such an extent that		到...程度
 
+
 resilient			迅速恢复
 so that				引导目的状语从句/引导结果状语从句
 albeit === although		连词
@@ -61,6 +61,7 @@ in order that
 in case/lest			引导/以防
 for the purpose that		引导目的
 in the hope that		引导目的
+
 
 significantly			明显地/重要地
 youth fatalities		年轻人的死亡数
