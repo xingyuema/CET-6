@@ -24,7 +24,8 @@ if、unless、
 so/as long as：			只要
 in case：			万一
 on condition that：		如果、假如
-provided/providing that：	如果、假如	suppose/supposing that：	如果、假如
+provided/providing that：	如果、假如	
+suppose/supposing that：	如果、假如
 
 
 UV light	 		紫外线
