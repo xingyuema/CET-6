@@ -1,22 +1,39 @@
 Word List 5
-fall  	 	        v/n 落下，跌倒  adj 秋天的
-has been moving  	一直在
-aggressively 		adv 侵略地、攻击地、有闯劲地
-remake 			n 重做，vt 在制
-mental powers		心智力量
-exert sth. on sb.	给某人施加
-enormous influence	巨大影响力
-a number of 		许多，若干
-district 		n 区域，地方，行政区
-induce sb. to do sth.	诱使默认做某事
-even more adj. than we  比我们更adj
-ethics			道德
-inclined to 		倾向于
-chase sth.		追求某事
-staff expertise		员工专业知识
-plateau			n 高原，稳定水平
-hitting a plateau	到达平稳时期
-slakening off		松弛区
+fall  	 	                v/n 落下，跌倒  adj 秋天的
+has been moving  	        一直在
+aggressively 		          adv 侵略地、攻击地、有闯劲地
+remake 			              n 重做，vt 在制
+mental powers		          心智力量
+exert sth. on sb.       	给某人施加
+enormous influence	      巨大影响力
+a number of 		          许多，若干
+district 		              n 区域，地方，行政区
+induce sb. to do sth.	    诱使默认做某事
+even more adj. than we    比我们更adj
+ethics			              道德
+inclined to 		          倾向于
+chase sth.		            追求某事
+staff expertise		        员工专业知识
+plateau			              n 高原，稳定水平
+hitting a plateau	        到达平稳时期
+slakening off		          松弛区
+
+
+purifies                  提炼
+a bout of                 一阵子，一场
+justice                   司法制度，正义，公正
+do justice to             公平对待
+conference               （大型、正式）会议
+in conference             在开会
+hold a conference         举行会议
+function as               起什么作用（功能）
+sponsor                   n 赞助者，v 赞助，提议，支持
+print edition textbook    印刷版教科书
+by fever                  伴随
+slip sb's mind            遗忘
+
+
+
 
 
 
