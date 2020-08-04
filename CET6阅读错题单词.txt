@@ -102,6 +102,32 @@ vulnerabilty		n 易损性
 coordinator		协调者
 policy discussions	政策讨论
 expertise		专业知识
+too consipcuous to be observed	太显眼观察不到
+too consipcuous to not be observed	太显眼了不可能观察不到
+在阅读理解中看到more most就要想到是比较关系
+citation		引用
+repository		n 贮藏室，仓库，知识库
+in the vicinity of	在……附近
+groundings		因故障停船不走了
+amid			prep 在什么过程中，在……氛围中
+considered for sth.	考虑某事
+responsible player	负责任的参与
+not until		直到……才
+not expected until later预计晚些时候
+not A but B		不做A而做B
+unprecedented		以前没有现在有
+serious			不知道有没有
+for what purpose	什么目的
+keep sb. from sth.	阻止某人做某事
+sense of responsibility	责任感
+cordinator		协调
+initiator		发起者
+
+
+
+
+
+
 
 
 
