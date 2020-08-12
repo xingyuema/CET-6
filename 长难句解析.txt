@@ -1,3 +1,10 @@
+
+		让步状语从句
+连词：
+whether ……  or 
+no matter whether ... or 
+be ... or	
+
 cruise				游船
 lodging				寄宿
 be going to 			将……
@@ -5,19 +12,9 @@ environment that consumers interact with A
 A就是environment
 interact with 			与……相互作用
 communicate sth to sb		把某个信息传递给某个人
-		让步状语从句
-连词：
-whether ……  or 
-no matter whether ... or 
-be ... or	
 
 
-delivering sth goals 		实现...目标
-UN Sustainable Development	联合国可持续发展
-draw upon/on			利用某些东西
-A and B alike			A和B同时
-working to do			力争做到某事
-supportive environment		更加支持的环境
+
 		条件状语从句
 连词：
 if、unless、
@@ -27,6 +24,23 @@ on condition that：		如果、假如
 provided/providing that：	如果、假如	
 suppose/supposing that：	如果、假如
 
+delivering sth goals 		实现...目标
+UN Sustainable Development	联合国可持续发展
+draw upon/on			利用某些东西
+A and B alike			A和B同时
+working to do			力争做到某事
+supportive environment		更加支持的环境
+
+
+
+		结果状语从句
+连词：
+so that,so...(a/ad)that
+such that,such...(n)that
+so much so that
+to the point that		到...程度
+to such a degree that		到...程度
+to such an extent that		到...程度
 
 UV light	 		紫外线
 disinfectant robots		杀毒机器人
@@ -42,19 +56,8 @@ skyrocketed			激增
 send sth to someplace		送某些东西到某地方去
 truckloads of the machines	大量的设备
 developed for sth		为sth开发
-		结果状语从句
-连词：
-so that,so...(a/ad)that
-such that,such...(n)that
-so much so that
-to the point that		到...程度
-to such a degree that		到...程度
-to such an extent that		到...程度
 
 
-resilient			迅速恢复
-so that				引导目的状语从句/引导结果状语从句
-albeit === although		连词
 		目的状语从句-用到情态词
 连词：
 so that
@@ -63,10 +66,11 @@ in case/lest			引导/以防
 for the purpose that		引导目的
 in the hope that		引导目的
 
+resilient			迅速恢复
+so that				引导目的状语从句/引导结果状语从句
+albeit === although		连词
 
-significantly			明显地/重要地
-youth fatalities		年轻人的死亡数
-complication			并发症（用于疾病中表示）
+
 		方式状语从句
 连词：
 as				像
@@ -75,18 +79,24 @@ as if/as though			就好像是
 according as			按照...来
 the way				以...方式
 
+significantly			明显地/重要地
+youth fatalities		年轻人的死亡数
+complication			并发症（用于疾病中表示）
+
+
+		非限制性定语从句
+关系代词或关系副词		先行词			在从句中的作用
+which			 	物/句子一部分/句子	 名词性成分
+who/whom		 	人			 名词性成分	
+whose(of which)			人/物			 定语
+when(=at/in/on/during which) 	表示时间的名词	 	 时间状语
+where(=in/at/through/which)  	表示地点的名词	 	 地点状语
 
 California case			...案例
 that of a woman			女士
 The California case was that of a woman
 that是代词指代的是case.翻译：加利福尼亚州的案例是一个女士的案例
-		非限制性定语从句
-关系代词或关系副词		先行词			在从句中的作用
- which			 	物/句子一部分/句子	 名词性成分
- who/whom		 	人			 名词性成分	
- whose(of which)		人/物			 定语
- when(=at/in/on/during which) 	表示时间的名词	 	 时间状语
- where(=in/at/through/which)  	表示地点的名词	 	 地点状语
+
 
 
 humans worldwide		全世界的人们
@@ -95,7 +105,7 @@ durable substance		耐用物质
 sending （the bulk of what's not recycled ）to garbage dumps.	
 				sending sth. to .. 送...到...地方	
 leak sth. into someplace	将物泄露到某地去
-break down与物质搭配的意思是：分解	
+break down			与物质搭配的意思是：分解	
 		
 
 staging strikes			组织罢工
@@ -106,11 +116,6 @@ force sb. to do 		强迫某人做某事
 safeguarding			保护
 
 
-as social scientists have found (as指定的是宾语)repeatedly,+（as所指代的内容 ）
-demographic groups		不同的人群中
-the loss of the wage 		工资的损失
-deficit当它修饰health时的意思是：缺陷
-be associated with 		与...有关，和...联系在一起
 		定语从句
 连词；as
 		限制性定语从句			非限制性定语从句	
@@ -121,8 +126,13 @@ be associated with 		与...有关，和...联系在一起
 		as much...as			有“正如”的意思
 		as...as/so...as			
 
+as social scientists have found (as指定的是宾语)repeatedly,+（as所指代的内容 ）
+demographic groups		不同的人群中
+the loss of the wage 		工资的损失
+deficit				当它修饰health时的意思是：缺陷
+be associated with 		与...有关，和...联系在一起
 
-task force			特别工作组
+
 		定语从句
 连词：than
 	关系代词，在从句中多作主语和宾语
@@ -130,16 +140,79 @@ task force			特别工作组
 	比which等关系代词多了“比”这个含义
 	也可理解为than之后省略了"what"
 
+task force			特别工作组
+
+
+非谓语动词的构成和作用：
+v + agreement			这里的agreement的前面没有限定词，所以是不可数名词，意思为：一致的意见，可数名词：协议
+other oil-producing nations on Sunday		producing是nations发出的动作，这个动作作用在了oil上面，producing非谓语作定语修饰nations
+A reached agreement with B to do ..	to do做的是定语，修饰agreement
+in an effort to do sth.		目的状语
+stem				抑制
+plunge				下降
+brought on			带来
+feuding				动名词，不合 
+
+
+非谓语动词与谓语动词的区别：
+谓语动词：单独作谓语——体现时间、人称、数
+非谓语动词：不可以单独做谓语；作其他成分。
+	不定时：to do
+	动名词：doing
+	现在分词：doing
+	过去分词：done(不是did)
+
+Following the priciples of ...,online lessons .....	逗号前面是现在分词作状语，主语online lessons主动following the priciples
+manageable chunks		可管理的模块
+allow == enable			提供
+opportunities (for student) to practice (what must be learn)	第一个作不定式的主语，what引导的是practice的宾语
 
 
 
+非谓语动词与谓语动词的共同点：五种基本句型、状态、语态
+
+非谓语动词表示的状态：
+状态		to do			doing 			done
+一般		to do			doing			done
+进行		to be doing		doing
+完成		to have done		having done
+完成进行	to have been doing 	having been doing
+
+strike				袭击
+the storm is thought (to have claimed around 3000 lives,)		括号里面修饰的是storm
+claime lives			夺走生命
+be thought to do ...		被认为...
 
 
 
+非谓语动词表示被动语态：
+状态		to do			doing 			done
+一般		to be done		being done		done
+进行		to be being done	being done
+完成		to have been done	having been done
+
+validate			验证
+do + （介词词组作状语）
+randomize			随机
+n + (介词短语修饰前面的名词)
 
 
+非谓语动词和复杂句的关系：
+	非谓语动词可能等于
+		并列句分句
+		名词性分句
+		定语从句
+		状语从句
 
-
+along with ...			连同...一起，与...一道
+the doing n			doing 是用来修饰后面的名词
+the integrating technology	整合的科技
+invested in			投入...
+.....,doing that... == .....,which do that ..	非限制性定语简化
+...,doing... and doing ... ,doing ...	很明显最后一个doing不是和前两个doing并列
+enterprise			事业
+after all			逻辑连接语：终究和毕竟
+n + have done...,have done... == n + have done....,doing...	将并列句改写非谓语动词
 
 
 
