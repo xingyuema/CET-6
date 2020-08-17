@@ -548,8 +548,33 @@ even though sth		后面的事是事实，但是被否定了
 discriminatory		歧视
 
 
-
-
+			阅法三章10
+importance == significant	重要的
+	在长篇阅读中找不到：outher sth时看看看原文所举的列子是不是表达了other的意思。
+		关键词匹配得越少，牺牲的是准确率。
+	1、仔细阅读中经常会出现选项中的代词指代的内容与原文不一致的情况。
+	2、选项可能会涉及到时间（时态），确定某事的时态可以看原文语法和时态相关词来定夺。
+gloomy 			沮丧
+slash			vt/n.削减 vt.猛砍
+payroll			工资单
+urgent desire		迫切的需求
+grim nunbers		严峻的数量
+would do well sth.	最好做某事(提建议)
+straightforwardly	直白地
+guesstimate		猜测
+bading A on B		把A建立在B上
+take sides		选边站
+drastic 		a.激励的
+Democrats		n.民主党人
+Republicans		n.共和党人
+figure			n.数据，价格，金额，人物
+rather than		而不是，后面是否定的内容
+signal future		将来的信号
+suggests		暗示，建议（do）
+faulty			错的
+in that == because	因为
+magnifies		夸大
+assembling		收集
 
 
 
